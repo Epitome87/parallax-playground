@@ -7,12 +7,15 @@ by simply re-calculating their positions based on the user's scrolling.
 My main goal with this project is to strengthen the foundations of my web development knowledge.
 
 ## Accessing the Webpage
+
 You can view the resulting [webpage](https://epitome87.github.io/parallax-playground/) via Git Pages!
 To share the page with others, you can copy and paste the following:
 `https://epitome87.github.io/parallax-playground/`
 
-##  🔧 Still Under Construction 🔧
-Currently, the webpage is *not* mobile-friendly!
+## 🔧 Still Under Construction 🔧
+
+Currently, the webpage is _not_ mobile-friendly!
 
 ## At A Glance
-![Project Sample](images/preview01)
+
+![Project Sample](images/preview_animated.gif)
